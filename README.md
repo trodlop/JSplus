@@ -1,0 +1,2 @@
+# JSplus
+Extra JavaScript functionality
